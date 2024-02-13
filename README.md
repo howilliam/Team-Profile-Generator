@@ -11,6 +11,7 @@ The Team Profile Generator is a command-line application that allows managers to
 - [Classes](#classes)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [License](#License)
 
 ## Installation
 
@@ -94,3 +95,6 @@ To run tests for the classes, use the following command:
 npm run test
 ```
 Ensure that all tests pass before making any contributions.
+
+## License
+This application is covered under the MIT license.
